@@ -1,3 +1,8 @@
+
+## ⏳ Weekly Coding Activity
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 # 💫 About Me:
 💻 Currently building my portfolio and exploring new tech.<br>🤝 Open to collaborating with startups and curious minds.<br>🌱 Learning about life while coding meaningful projects.<br>♟ Fun fact: If you’ve got 5 minutes, let’s play a quick Queen’s Gambit over coffee!
 
@@ -16,7 +21,6 @@
 [![](https://visitcount.itsvg.in/api?id=sarthakbhatele&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/bhatelesarthak) 
-
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bhatelesarthak)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
