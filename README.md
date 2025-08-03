@@ -17,7 +17,7 @@ JSON         43 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 # 💫 About Me:
-💻 Currently building my portfolio and exploring new tech.<br>🤝 Open to collaborating with startups and curious minds.<br>🌱 Learning about life while coding meaningful projects.<br>♟ Fun fact: If you’ve got 5 minutes, let’s play a quick Queen’s Gambit over coffee!
+💻 Always open to learn, execute and explore more. An enthusiast for adventuring new techs.<br>🤝 Open to collaborating with startups and curious minds.<br>🌱 Learning about life while coding meaningful projects.<br>♟ Fun fact: If you’ve got 5 minutes, let’s play a quick Queen’s Gambit over coffee!
 
 
 ## 🌐 Socials:
