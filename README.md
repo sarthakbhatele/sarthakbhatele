@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2025 - To: 10 August 2025
+From: 04 August 2025 - To: 11 August 2025
 
-Total Time: 21 hrs 31 mins
+Total Time: 20 hrs 41 mins
 
-TypeScript   16 hrs 37 mins  ███████████████████▒░░░░░   77.20 %
-Java         1 hr 55 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
-Prisma       1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-JavaScript   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-CSS          26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+TypeScript   16 hrs 21 mins  ███████████████████▓░░░░░   78.98 %
+Java         2 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
+JavaScript   30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Prisma       28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Python       19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
