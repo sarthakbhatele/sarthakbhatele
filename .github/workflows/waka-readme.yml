@@ -51,33 +51,68 @@
 #           git push
 
 # v3
+# name: Waka Readme
+
+# on:
+#   workflow_dispatch:
+#   schedule:
+#     - cron: "0 0 * * *"
+
+# jobs:
+#   update-readme:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v3
+
+#       - name: WakaTime Readme (no auto-commit)
+#         uses: athul/waka-readme@master
+#         with:
+#           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+#           SHOW_TITLE: true
+#           TIME_RANGE: last_7_days
+#           SHOW_TOTAL: true
+#           COMMIT_MESSAGE: ""   # 👈 disables auto-commit
+
+#       - name: Commit & Push changes (as you)
+#         run: |
+#           git config user.name "sarthakbhatele"
+#           git config user.email "153352714+sarthakbhatele@users.noreply.github.com"
+#           git add .
+#           git commit -m "Updated WakaTime stats" || echo "No changes to commit"
+#           git push
+
+# #v4 
 name: Waka Readme
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # Runs daily at midnight
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-      - name: WakaTime Readme (no auto-commit)
+      - name: Update WakaTime stats
         uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           TIME_RANGE: last_7_days
           SHOW_TOTAL: true
-          COMMIT_MESSAGE: ""   # 👈 disables auto-commit
+          COMMIT_MESSAGE: ""   # Disable auto-commit by bot
 
-      - name: Commit & Push changes (as you)
+      - name: Commit & Push (only if changed)
         run: |
           git config user.name "sarthakbhatele"
           git config user.email "153352714+sarthakbhatele@users.noreply.github.com"
-          git add .
-          git commit -m "Updated WakaTime stats" || echo "No changes to commit"
-          git push
-
+          if git diff --quiet; then
+            echo "✅ No changes to commit"
+          else
+            git add .
+            git commit -m "Updated WakaTime stats"
+            git push
+          fi
