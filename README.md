@@ -3,6 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
+From: 28 September 2025 - To: 05 October 2025
+
+Total Time: 24 hrs 7 mins
+
 JavaScript   21 hrs 42 mins  ██████████████████████▒░░   89.52 %
 TypeScript   1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
 Bash         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
