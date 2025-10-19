@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2025 - To: 17 October 2025
+From: 11 October 2025 - To: 18 October 2025
 
-Total Time: 11 hrs 7 mins
+Total Time: 11 hrs 25 mins
 
-JavaScript   5 hrs 52 mins   █████████████▒░░░░░░░░░░░   52.83 %
-TypeScript   4 hrs 53 mins   ███████████░░░░░░░░░░░░░░   43.97 %
-JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-Docker       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+JavaScript   6 hrs 5 mins    █████████████▒░░░░░░░░░░░   53.27 %
+TypeScript   5 hrs 7 mins    ███████████▒░░░░░░░░░░░░░   44.88 %
+JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
