@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2025 - To: 09 December 2025
+From: 03 December 2025 - To: 10 December 2025
 
-Total Time: 6 hrs 9 mins
+Total Time: 6 hrs 47 mins
 
-JavaScript   4 hrs 19 mins   ████████████████▓░░░░░░░░   66.22 %
-C++          46 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
-Prisma       33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
-Other        21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-HTML         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+JavaScript   4 hrs 36 mins   ████████████████░░░░░░░░░   64.37 %
+C++          46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
+Prisma       33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+Other        21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+HTML         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
 ```
 
 <!--END_SECTION:waka-->
