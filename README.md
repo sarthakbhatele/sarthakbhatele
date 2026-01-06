@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2025 - To: 04 January 2026
+From: 29 December 2025 - To: 05 January 2026
 
-Total Time: 17 hrs 59 mins
+Total Time: 14 hrs 17 mins
 
-JavaScript   14 hrs          ███████████████████░░░░░░   76.35 %
-TypeScript   1 hr 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
-Prisma       51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-Bash         37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-CSS          22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+JavaScript   10 hrs 27 mins  ██████████████████░░░░░░░   71.36 %
+TypeScript   1 hr 33 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
+Prisma       51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+Bash         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+CSS          22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
 <!--END_SECTION:waka-->
