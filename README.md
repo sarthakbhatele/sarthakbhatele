@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 March 2026 - To: 19 March 2026
+From: 13 March 2026 - To: 20 March 2026
 
-Total Time: 3 hrs 12 mins
+Total Time: 1 hr 32 mins
 
-TypeScript   1 hr 26 mins          ██████████▓░░░░░░░░░░░░░░   43.00 %
-Python       1 hr 1 min            ███████▓░░░░░░░░░░░░░░░░░   30.39 %
-JavaScript   41 mins               █████░░░░░░░░░░░░░░░░░░░░   20.42 %
-Other        9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-SQL          2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Python       1 hr 17 mins          ███████████████████░░░░░░   76.15 %
+Other        9 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+CSV          7 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+TypeScript   6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+JavaScript   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
