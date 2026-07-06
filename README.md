@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 June 2026 - To: 04 July 2026
+From: 28 June 2026 - To: 05 July 2026
 
-Total Time: 14 mins
+Total Time: 23 mins
 
-C++    12 mins               █████████████████████░░░░   84.61 %
-JSON   2 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.39 %
+C++    21 mins               ██████████████████████▓░░   90.40 %
+JSON   2 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
 ```
 
 <!--END_SECTION:waka-->
