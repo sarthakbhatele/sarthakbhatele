@@ -3,13 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 July 2026 - To: 08 July 2026
+From: 02 July 2026 - To: 09 July 2026
 
-Total Time: 26 mins
+Total Time: 1 hr 23 mins
 
-C++     23 mins               █████████████████████░░░░   83.77 %
-Other   2 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
-JSON    2 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+TypeScript   46 mins               █████████████▒░░░░░░░░░░░   53.65 %
+C++          29 mins               ████████▒░░░░░░░░░░░░░░░░   33.70 %
+INI          2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Other        2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+Bash         2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
 ```
 
 <!--END_SECTION:waka-->
